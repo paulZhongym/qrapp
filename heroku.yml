@@ -1,5 +1,0 @@
-# build:
-#   docker:
-#     web: src/docker/Dockerfile
-
-# web: java -jar herokuApp.jar
