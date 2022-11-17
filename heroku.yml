@@ -1,0 +1,5 @@
+build:
+  docker:
+    web: src/docker/Dockerfile
+run:
+  web: java -jar target/herokuApp.jar
