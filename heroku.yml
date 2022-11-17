@@ -2,4 +2,4 @@
 #   docker:
 #     web: src/docker/Dockerfile
 
-web: java -jar herokuApp.jar
+# web: java -jar herokuApp.jar
