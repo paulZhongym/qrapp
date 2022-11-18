@@ -1,1 +1,1 @@
-web: java -jar herokuApp.jar
+web: java -jar target/herokuApp.jar
